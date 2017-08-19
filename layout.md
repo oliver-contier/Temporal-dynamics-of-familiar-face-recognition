@@ -2,6 +2,7 @@ abstract.html
 untitled.html
 figures/int_and_slope
 fjj83qn6u8g.html
+l77tnk91ico.tex
 prlg3m0hs4.html
 ukjkjbmlaig.html
 sff0kb6o098.html
