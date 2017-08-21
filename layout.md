@@ -6,5 +6,7 @@ figures/int_and_slope
 fjj83qn6u8g.html
 figures/main_effects_slp
 tpc7c95k4io.html
+figures/mean_betas_threshclust
+6r0rc5dhehg.html
 sff0kb6o098.html
 nomrpucls08.html
