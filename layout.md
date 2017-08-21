@@ -4,7 +4,6 @@ s3fcepjur5.html
 bp2v0ljscq.html
 figures/int_and_slope
 fjj83qn6u8g.html
-figures/fam_sl_rev_vol_crop
 tpc7c95k4io.html
 ukjkjbmlaig.html
 sff0kb6o098.html
