@@ -1,0 +1,19 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/fam_sl_rev_vol_rows/fam_sl_rev_vol_rows.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/96672/articles/192848/master/file/figures/fam_sl_rev_vol_rows/fam_sl_rev_vol_rows.png"
