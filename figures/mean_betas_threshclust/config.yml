@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/mean_betas_threshclust/mean_betas_threshclust.png
+  - path: figures/mean_betas_threshclust/mean_betas_threshclust_crop.png
     type: static
     from:
     - 1
@@ -16,5 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/96672/articles/192848/master/file/figures/mean_betas_threshclust/mean_betas_threshclust.png"
     folder_url: "/users/96672/articles/192848/master/folder/figures/mean_betas_threshclust"
+    url: "/users/96672/articles/192848/master/file/figures/mean_betas_threshclust/mean_betas_threshclust_crop.png"
